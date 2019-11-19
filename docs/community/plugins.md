@@ -215,7 +215,7 @@ The following plugins are available and provided by Dokku maintainers. Where not
 | Plugin                                                                                            | Author                | Compatibility         |
 | ------------------------------------------------------------------------------------------------- | --------------------- | --------------------- |
 | [Airbrake deploy](https://github.com/Flink/dokku-airbrake-deploy)                                 | [Flink][]             | 0.4.0+                |
-| [APT](https://github.com/F4-Group/dokku-apt)                                                      | [F4-Group][]          | 0.4.0+                |
+| [dokku-apt](https://github.com/dokku-community/dokku-apt apt)                                     | [dokku-community][]   | 0.18.x+               |
 | [Bower install](https://github.com/alexanderbeletsky/dokku-bower-install)                         | [alexanderbeletsky][] | 0.3.x                 |
 | [Bower/Grunt](https://github.com/thrashr888/dokku-bower-grunt-build-plugin)                       | [thrashr888][]        | 0.3.x                 |
 | [Bower/Gulp](https://github.com/gdi2290/dokku-bower-gulp-build-plugin)                            | [gdi2290][]           | 0.3.x                 |
